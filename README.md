@@ -16,7 +16,7 @@
 
 ## Temas
 
-* [Descarga de datos API](https://github.com/bluepill5/IngieneriaDatos/blob/main/scripts/api_download.python)
+* [Descarga de datos API](https://github.com/bluepill5/IngieneriaDatos/blob/main/scripts/api_download.py)
 
 
 ## Como seguir el proyecto
